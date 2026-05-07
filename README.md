@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="AI Insight Engine Banner" width="100%">
+ 
   
   # ✧ AI Insight Engine ✧
   ### *The Future of Data Analytics, Powered by AI*
@@ -72,5 +72,5 @@ Obtain a [Hugging Face API Token](https://huggingface.co/settings/tokens) and en
 <div align="center">
   <br>
   <p><i>"Empowering data-driven decisions through elegant intelligence."</i></p>
-  <p><b>Built with ❤️ by Antigravity</b></p>
+  
 </div>
